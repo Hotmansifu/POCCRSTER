@@ -6,9 +6,11 @@ Python 3.x
 pip (for installing the required packages)
 ### Usage
 Clone the repository using ```git clone https://github.com/Hotmansifu/PortScanner.git```
-Navigate into the repository using cd PortScanner
-Install the required packages using pip install -r requirements.txt
-Run the script using python port_scanner.py -H [target_host] -p [port_range]
+*Navigate into the repository using cd PortScanner
+*Install the required packages using 
+```pip install socket```
+```pip install datetime```
+*Run the script using python port_scanner.py -H [target_host] -p [port_range]
 ### Options
 -H or --host: The target host that you want to scan.
 -p or --port: The range of ports that you want to scan. By default, it scans the common ports (1-1024).
