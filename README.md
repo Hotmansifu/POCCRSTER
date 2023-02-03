@@ -11,6 +11,7 @@ A simple python script for scanning open ports on a target host.
 
 * Install the required packages using 
 * ```pip install socket```
+* and
 * ```pip install datetime```
 * ```python main.py```
 
