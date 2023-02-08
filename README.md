@@ -5,9 +5,9 @@ A simple python script for scanning open ports on a target host.
 * Python 3.x
 * pip (for installing the required packages)
 ### Usage
-* Clone the repository using ```git clone https://github.com/Hotmansifu/PortScanner.git```
+* Clone the repository using ```git clone https://github.com/Hotmansifu/POCCRSTER.git```
 
-* Navigate into the repository using ```cd PortScanner```
+* Navigate into the repository using ```cd POCCRSTER```
 
 * Install the required packages using 
 * ```pip install socket``` and  ```pip install datetime```
